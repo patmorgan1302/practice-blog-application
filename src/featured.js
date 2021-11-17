@@ -103,6 +103,6 @@ function Users() {
   return <h2>Users</h2>;
 }
 
-function Explroe() {
+function Explore() {
   return <h2>Exmplore</h2>;
 }
